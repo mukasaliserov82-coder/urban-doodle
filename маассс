@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ALISHEROV & PARTNERS</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <div class="header-container">
+    <h1>ALISHEROV & PARTNERS</h1>
+    <p>Профессиональная юридическая помощь и защита ваших прав</p>
+    <a class="btn" href="#contacts">Получить консультацию</a>
+  </div>
+</header>
+
+<!-- NAVIGATION -->
+<nav>
+  <a href="#about">О нас</a>
+  <a href="#services">Услуги</a>
+  <a href="#team">Команда</a>
+  <a href="#cases">Кейсы</a>
+  <a href="#contacts">Контакты</a>
+</nav>
+
+<!-- ABOUT -->
+<section id="about">
+  <h2>О нашей фирме</h2>
+  <p>
+  Мы оказываем профессиональную юридическую помощь гражданам и организациям.
+  Наша цель — защитить ваши права и обеспечить эффективное решение юридических вопросов.
+  </p>
+</section>
+
+<!-- SERVICES -->
+<section id="services">
+  <h2>Наши услуги</h2>
+  <div class="cards">
+    <div class="card">
+      <h3>Гражданское право</h3>
+      <p>Решение гражданских споров, защита прав и имущества.</p>
+    </div>
+    <div class="card">
+      <h3>Семейное право</h3>
+      <p>Бракоразводные процессы, алименты, имущественные споры.</p>
+    </div>
+    <div class="card">
+      <h3>Корпоративное право</h3>
+      <p>Юридическое сопровождение бизнеса, договора, лицензии.</p>
+    </div>
+    <div class="card">
+      <h3>Судебное представительство</h3>
+      <p>Защита ваших интересов в судах и государственных органах.</p>
+    </div>
+  </div>
+</section>
+
+<!-- TEAM -->
+<section id="team">
+  <h2>Наша команда</h2>
+  <div class="cards">
+    <div class="card">
+      <h3>Мукаш Алишеров</h3>
+      <p>Главный юрист, специализация: гражданское и корпоративное право</p>
+    </div>
+    <div class="card">
+      <h3>Адвокат Акжол</h3>
+      <p>Специализация: судебное представительство и семейное право</p>
+    </div>
+  </div>
+</section>
+
+<!-- CASES -->
+<section id="cases">
+  <h2>Наши кейсы</h2>
+  <ul>
+    <li>Выигранный судебный процесс по имущественному спору</li>
+    <li>Успешное сопровождение бизнеса клиента при регистрации компании</li>
+    <li>Консультации и разрешение конфликтов в семейных делах</li>
+  </ul>
+</section>
+
+<!-- CONTACTS -->
+<section id="contacts">
+  <h2>Свяжитесь с нами</h2>
+  <form>
+    <input type="text" placeholder="Ваше имя" required>
+    <input type="email" placeholder="Email" required>
+    <textarea placeholder="Ваш вопрос" required></textarea>
+    <button type="submit">Отправить</button>
+  </form>
+  <p>📞 Телефон: +996 XXX XXX XXX</p>
+  <p>📧 Email: alisherovlaw@gmail.com</p>
+  <p>📍 Адрес: Кыргызстан</p>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>© 2026 ALISHEROV & PARTNERS | Все права защищены</p>
+</footer>
+
+</body>
+</html>
